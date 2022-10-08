@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm Jesper Kling</h1>
+<hr>
+<div align="center">
+	<a href="https://github.com/jesperkling">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesperkling&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperkling&layout=compact&langs_count=16&theme=dark" />
+</div>
+<hr>
+<div align="center" style="display: inline_block"><br>
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Firebase-Dark.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Heroku.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" >     	
+	<img align="center" height="30" widht="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
+</div>											
+<hr>												
 
-<!--
-**jesperkling/jesperkling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<a href="https://www.facebook.com/jesper.kling.96" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+	<a href="https://www.instagram.com/kljesper/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/jesper-kling/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="mailto:jesperkling@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
